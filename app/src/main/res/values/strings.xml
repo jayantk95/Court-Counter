@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+<!--    Name of first Team : TeamA-->
+    <string name="first_team">TeamA</string>
+
+    <!--    Name of second Team : TeamB-->
+    <string name="second_team">TeamB</string>
+
+<!--    Initial score -->
+    <string name="initial_score">0</string>
+
+<!-- Basket score : 3 points   -->
+    <string name="basket_3_points">+3 Points</string>
+
+    <!-- Basket score : 3 points   -->
+    <string name="basket_2_points">+2 Points</string>
+
+    <!-- Basket score : Free throw - 1 point   -->
+    <string name="free_throw">Free Throw</string>
+
+<!--    Reset button-->
+    <string name="reset_button">Reset</string>
+
+</resources>
